@@ -1,0 +1,70 @@
+.S
+{
+    margin-left: -350px;
+    
+}
+.f
+{
+    margin-left: 80px;
+    width: 300px;
+}
+.s2
+{
+    margin-left: 50px;
+}
+.div3:hover{
+    width: 50px;
+    transform: scale(0.8);
+}
+.div3{
+    transition: all 0.6s;
+}
+.div1{
+    height: 150px;
+    transition: all 0.3s;
+}
+.div1:hover{
+    width:120px;
+    transform: scale(1.5);
+}
+.div4{
+    transition: all 0.20s;
+    
+}
+h4{
+    margin-left: 20px;
+    color: rgb(216, 9, 188);
+}
+.div4:hover{
+    
+    transform: scale(1.1);
+}
+.rounded-circle{
+    width: 90px;
+    height: 90px;
+}
+h6{
+    font-size: 11px;
+    font-weight: 50px;
+}
+.div9{
+    background-color:rgb(104, 21, 69);
+}
+li a{
+    font-size: 12px;
+    color:rgb(166, 151, 151);
+}
+.div8{
+    font-size: 15px;
+}
+.top-0{
+    font-size: 9px;
+    
+}
+.btn-secondary{
+    background-color: whitesmoke;
+    margin-left: 200px;
+}
+.k1{
+    font-size: 15px;
+}
